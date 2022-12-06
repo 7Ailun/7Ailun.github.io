@@ -50,4 +50,3 @@ window.onload = setInterval(changeColor, 1200);
 
 
 
-
